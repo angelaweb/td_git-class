@@ -2,6 +2,8 @@ this is a difficult feature
 
 something works but...
 
-there is a bug!!!
+
+there **was** a bug!!!
 
 the rest still works
+

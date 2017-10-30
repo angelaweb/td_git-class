@@ -1,0 +1,5 @@
+this is going to show
+how files are ignored using .gitignore manifest file
+
+
+read on .gotignore patterns to ignore...
